@@ -13,6 +13,6 @@ https://github.com/seanfitz34/Password-Generator
 
 ## Image
 
-![password generator](./assets/images/psg.HEIC)
+![password generator](./assets/images/IMG_0945%20Small.jpeg)
 
 © 2022 Sean Fitzgerald
