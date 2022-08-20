@@ -6,11 +6,11 @@
 
 Live Site
 
-https://seanfitz34.github.io/Horiseon-Refactor/
+
 
 Gitbub Repo
 
-https://github.com/seanfitz34/Horiseon-Refactor
+
 
 ## Image
 
