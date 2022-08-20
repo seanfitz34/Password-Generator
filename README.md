@@ -6,7 +6,7 @@
 
 Live Site
 
-file:///Users/hollywood/Desktop/ucla-bootcamp/challenges/Password-Generator/index.html
+https://seanfitz34.github.io/Password-Generator/
 
 Gitbub Repo
 https://github.com/seanfitz34/Password-Generator
